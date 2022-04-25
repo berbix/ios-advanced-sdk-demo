@@ -1,0 +1,6 @@
+framework module BerbixToolkit {
+  umbrella header "BerbixToolkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
