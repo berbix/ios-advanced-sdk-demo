@@ -1,0 +1,6 @@
+framework module Pods_HighFlexDemo {
+  umbrella header "Pods-HighFlexDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - BerbixToolkit (0.1.0)
+
+DEPENDENCIES:
+  - BerbixToolkit (~> 0.1.0)
+
+SPEC REPOS:
+  https://github.com/berbix/berbix-ios-spec.git:
+    - BerbixToolkit
+
+SPEC CHECKSUMS:
+  BerbixToolkit: 147aeb307c57c2a1e8ca94fbe9595c859eee0984
+
+PODFILE CHECKSUM: f4b84a77f75e61745e3ea76a1dce8b2e9673af92
+
+COCOAPODS: 1.11.3
