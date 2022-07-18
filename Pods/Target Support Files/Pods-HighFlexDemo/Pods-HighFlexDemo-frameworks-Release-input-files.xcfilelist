@@ -1,2 +1,2 @@
 ${PODS_ROOT}/Target Support Files/Pods-HighFlexDemo/Pods-HighFlexDemo-frameworks.sh
-${PODS_XCFRAMEWORKS_BUILD_DIR}/BerbixToolkit/BerbixToolkit.framework/BerbixToolkit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/BerbixAdvanced/BerbixAdvanced.framework/BerbixAdvanced

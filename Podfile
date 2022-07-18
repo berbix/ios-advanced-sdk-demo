@@ -9,6 +9,5 @@ target 'HighFlexDemo' do
 
   # Pods for HighFlexDemo
   # Use for local development
-  #pod 'BerbixToolkit', :path => '../ios-toolkit/BerbixToolkit.podspec'
-  pod 'BerbixToolkit', '~> 0.1.0'
+  pod 'BerbixAdvanced', '~> 0.1.2'
 end

@@ -7,69 +7,69 @@
 	objects = {
 
 /* Begin PBXAggregateTarget section */
-		387B184B8547E803525DF3176030A9C5 /* BerbixToolkit */ = {
+		2D7666489271EADBC35747274817AECB /* BerbixAdvanced */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 2AEA8FA93D3F8D303A76740FC7D3C044 /* Build configuration list for PBXAggregateTarget "BerbixToolkit" */;
+			buildConfigurationList = 5EE224EE89EECE38722FBFB7C6619B69 /* Build configuration list for PBXAggregateTarget "BerbixAdvanced" */;
 			buildPhases = (
-				CD02D75801D15555316D056F7DD4FC6E /* [CP] Copy XCFrameworks */,
+				0CF45CECD0750FF6E8156159B9D430B7 /* [CP] Copy XCFrameworks */,
 			);
 			dependencies = (
 			);
-			name = BerbixToolkit;
+			name = BerbixAdvanced;
 		};
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		531AAA8C6C5E5AC016E9D4A1669EFCFD /* Pods-HighFlexDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BFBFECBF6E15807BFD5C51CE35E44BC /* Pods-HighFlexDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		74A597912BC9BCA97EE839D027DBC2A2 /* Pods-HighFlexDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DD38C453E20D103D5C42E15763AB47D3 /* Pods-HighFlexDemo-dummy.m */; };
-		E57B244A18A9AB96E8184054CA4B8A69 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		342BCA051C590A7B2CFB453D6FE1B51C /* Pods-HighFlexDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BFBFECBF6E15807BFD5C51CE35E44BC /* Pods-HighFlexDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		50A964CE88F12915A29A357A6888F600 /* Pods-HighFlexDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DD38C453E20D103D5C42E15763AB47D3 /* Pods-HighFlexDemo-dummy.m */; };
+		DB81DCBE9A62C45183C79B24E7D645E2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2FE08044484A8B2F956E5589233F259F /* PBXContainerItemProxy */ = {
+		CF8372C89950ED31E9553A8CDF7768BF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 387B184B8547E803525DF3176030A9C5;
-			remoteInfo = BerbixToolkit;
+			remoteGlobalIDString = 2D7666489271EADBC35747274817AECB;
+			remoteInfo = BerbixAdvanced;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0D6F9F6B861703DC0613F4C001C52150 /* Pods-HighFlexDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HighFlexDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		1AC177C2748D6BE203F125AD1AD2971C /* Pods-HighFlexDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HighFlexDemo-acknowledgements.plist"; sourceTree = "<group>"; };
-		4D09E61C9EF445FC6697FF27CDE84704 /* BerbixToolkit.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = BerbixToolkit.xcframework; sourceTree = "<group>"; };
+		4CD7525FE7F64D9897BCD7BC8071A30C /* BerbixAdvanced.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BerbixAdvanced.debug.xcconfig; sourceTree = "<group>"; };
 		4DEAFAE0C141892C2296AE5CC137AEC4 /* Pods-HighFlexDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HighFlexDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
 		54ED7C6DCCE5143278B7AB3211EA5D49 /* Pods-HighFlexDemo */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-HighFlexDemo"; path = Pods_HighFlexDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		708C60E2D52208C5C3F7365464B2CA8F /* BerbixToolkit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BerbixToolkit.debug.xcconfig; sourceTree = "<group>"; };
+		6422DA6FF13EE97604E55C96F1BC514A /* BerbixAdvanced.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = BerbixAdvanced.xcframework; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8E86A16E2D9ED9CC3A95334E7C8359B7 /* Pods-HighFlexDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HighFlexDemo-frameworks.sh"; sourceTree = "<group>"; };
 		9BFBFECBF6E15807BFD5C51CE35E44BC /* Pods-HighFlexDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HighFlexDemo-umbrella.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F64A317E763CE7F885DE8439BE6B9A1 /* BerbixAdvanced.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BerbixAdvanced.release.xcconfig; sourceTree = "<group>"; };
 		B43D5C119E1F03B8E6C38641EA04A72D /* Pods-HighFlexDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HighFlexDemo.modulemap"; sourceTree = "<group>"; };
-		BBD5DD5D895A6AEB9A97BD79B271AA5A /* BerbixToolkit-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "BerbixToolkit-xcframeworks.sh"; sourceTree = "<group>"; };
 		DD38C453E20D103D5C42E15763AB47D3 /* Pods-HighFlexDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HighFlexDemo-dummy.m"; sourceTree = "<group>"; };
-		E0EFBB8A54B430D0759C0712E2ED2432 /* BerbixToolkit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BerbixToolkit.release.xcconfig; sourceTree = "<group>"; };
+		DE409F7EEA80DB060F87257D7AF905AB /* BerbixAdvanced-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "BerbixAdvanced-xcframeworks.sh"; sourceTree = "<group>"; };
 		E8E887B5BD09A76298F655A3FDBCB27E /* Pods-HighFlexDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HighFlexDemo-Info.plist"; sourceTree = "<group>"; };
 		EDF158403E3603D8DA124496EC70E8B7 /* Pods-HighFlexDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HighFlexDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		26C2D9D5E63DE78BC22DB61B0470B1F9 /* Frameworks */ = {
+		6450D6410D59F805B69DA8B8187FB5DC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E57B244A18A9AB96E8184054CA4B8A69 /* Foundation.framework in Frameworks */,
+				DB81DCBE9A62C45183C79B24E7D645E2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2BE91896C497DA38ADA79ADF30C22B78 /* Pods */ = {
+		002D3BABBECAC5C1B22E036CE7DD8577 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B3236E9507365A5B5DB8BB8BE3947D0E /* BerbixToolkit */,
+				9C7447D2A3561A170735E9DB610D90FF /* BerbixAdvanced */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -90,33 +90,22 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		5B5337310D1DA05F13EFB5C84778090E /* Frameworks */ = {
+		9C7447D2A3561A170735E9DB610D90FF /* BerbixAdvanced */ = {
 			isa = PBXGroup;
 			children = (
-				4D09E61C9EF445FC6697FF27CDE84704 /* BerbixToolkit.xcframework */,
+				BA2AEB232EC8E2E81D49AB50ADE5967D /* Frameworks */,
+				F3C486B9B3CDB21D32823583A54063C5 /* Support Files */,
+			);
+			name = BerbixAdvanced;
+			path = BerbixAdvanced;
+			sourceTree = "<group>";
+		};
+		BA2AEB232EC8E2E81D49AB50ADE5967D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6422DA6FF13EE97604E55C96F1BC514A /* BerbixAdvanced.xcframework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		B3236E9507365A5B5DB8BB8BE3947D0E /* BerbixToolkit */ = {
-			isa = PBXGroup;
-			children = (
-				5B5337310D1DA05F13EFB5C84778090E /* Frameworks */,
-				C0316D8006E4B57C94F5CE3579D55557 /* Support Files */,
-			);
-			name = BerbixToolkit;
-			path = BerbixToolkit;
-			sourceTree = "<group>";
-		};
-		C0316D8006E4B57C94F5CE3579D55557 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				BBD5DD5D895A6AEB9A97BD79B271AA5A /* BerbixToolkit-xcframeworks.sh */,
-				708C60E2D52208C5C3F7365464B2CA8F /* BerbixToolkit.debug.xcconfig */,
-				E0EFBB8A54B430D0759C0712E2ED2432 /* BerbixToolkit.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/BerbixToolkit";
 			sourceTree = "<group>";
 		};
 		CE9DCC1E6AFD67CF772E6324B790502D /* Targets Support Files */ = {
@@ -132,7 +121,7 @@
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				2BE91896C497DA38ADA79ADF30C22B78 /* Pods */,
+				002D3BABBECAC5C1B22E036CE7DD8577 /* Pods */,
 				575F0F94EC4BAA342F49DC0F3B7297E1 /* Products */,
 				CE9DCC1E6AFD67CF772E6324B790502D /* Targets Support Files */,
 			);
@@ -163,14 +152,25 @@
 			path = "Target Support Files/Pods-HighFlexDemo";
 			sourceTree = "<group>";
 		};
+		F3C486B9B3CDB21D32823583A54063C5 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DE409F7EEA80DB060F87257D7AF905AB /* BerbixAdvanced-xcframeworks.sh */,
+				4CD7525FE7F64D9897BCD7BC8071A30C /* BerbixAdvanced.debug.xcconfig */,
+				9F64A317E763CE7F885DE8439BE6B9A1 /* BerbixAdvanced.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/BerbixAdvanced";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		664CA86EB169146D205F4BBB8B710D94 /* Headers */ = {
+		3A0B0F860C60559A02E11D85F01F0509 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				531AAA8C6C5E5AC016E9D4A1669EFCFD /* Pods-HighFlexDemo-umbrella.h in Headers */,
+				342BCA051C590A7B2CFB453D6FE1B51C /* Pods-HighFlexDemo-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,17 +179,17 @@
 /* Begin PBXNativeTarget section */
 		B9213F3034CB7B6E7FDF557956FCE5B7 /* Pods-HighFlexDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FA1E397C6DEFA768DFCDCC7994DE5A3A /* Build configuration list for PBXNativeTarget "Pods-HighFlexDemo" */;
+			buildConfigurationList = 112A917A95C2D0178E9CE6718122B226 /* Build configuration list for PBXNativeTarget "Pods-HighFlexDemo" */;
 			buildPhases = (
-				664CA86EB169146D205F4BBB8B710D94 /* Headers */,
-				DFB1E64DD60BFAC9E174166711977A61 /* Sources */,
-				26C2D9D5E63DE78BC22DB61B0470B1F9 /* Frameworks */,
-				2B3DB79755E18367052D053068F88552 /* Resources */,
+				3A0B0F860C60559A02E11D85F01F0509 /* Headers */,
+				B60A09477BA72ED34D2051E76486B9B4 /* Sources */,
+				6450D6410D59F805B69DA8B8187FB5DC /* Frameworks */,
+				FBFBC942BE53FDCF14AA796814E71E78 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A2603C4B77B54676322CAEA07626AD5D /* PBXTargetDependency */,
+				1996ED50506953AD3FEA9E3AC72DE9AB /* PBXTargetDependency */,
 			);
 			name = "Pods-HighFlexDemo";
 			productName = Pods_HighFlexDemo;
@@ -218,14 +218,14 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				387B184B8547E803525DF3176030A9C5 /* BerbixToolkit */,
+				2D7666489271EADBC35747274817AECB /* BerbixAdvanced */,
 				B9213F3034CB7B6E7FDF557956FCE5B7 /* Pods-HighFlexDemo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2B3DB79755E18367052D053068F88552 /* Resources */ = {
+		FBFBC942BE53FDCF14AA796814E71E78 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -235,46 +235,101 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		CD02D75801D15555316D056F7DD4FC6E /* [CP] Copy XCFrameworks */ = {
+		0CF45CECD0750FF6E8156159B9D430B7 /* [CP] Copy XCFrameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/BerbixToolkit/BerbixToolkit-xcframeworks-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/BerbixAdvanced/BerbixAdvanced-xcframeworks-input-files.xcfilelist",
 			);
 			name = "[CP] Copy XCFrameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/BerbixToolkit/BerbixToolkit-xcframeworks-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/BerbixAdvanced/BerbixAdvanced-xcframeworks-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/BerbixToolkit/BerbixToolkit-xcframeworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/BerbixAdvanced/BerbixAdvanced-xcframeworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DFB1E64DD60BFAC9E174166711977A61 /* Sources */ = {
+		B60A09477BA72ED34D2051E76486B9B4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74A597912BC9BCA97EE839D027DBC2A2 /* Pods-HighFlexDemo-dummy.m in Sources */,
+				50A964CE88F12915A29A357A6888F600 /* Pods-HighFlexDemo-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A2603C4B77B54676322CAEA07626AD5D /* PBXTargetDependency */ = {
+		1996ED50506953AD3FEA9E3AC72DE9AB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = BerbixToolkit;
-			target = 387B184B8547E803525DF3176030A9C5 /* BerbixToolkit */;
-			targetProxy = 2FE08044484A8B2F956E5589233F259F /* PBXContainerItemProxy */;
+			name = BerbixAdvanced;
+			target = 2D7666489271EADBC35747274817AECB /* BerbixAdvanced */;
+			targetProxy = CF8372C89950ED31E9553A8CDF7768BF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		2479C0C1EF10915AA4AD268666BBD749 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EDF158403E3603D8DA124496EC70E8B7 /* Pods-HighFlexDemo.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-HighFlexDemo/Pods-HighFlexDemo-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-HighFlexDemo/Pods-HighFlexDemo.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		43017B28758F2E3F8F8AAFC978BE8142 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CD7525FE7F64D9897BCD7BC8071A30C /* BerbixAdvanced.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
 		4BC7450F9457737EE3E637BA155B56F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -341,24 +396,6 @@
 			};
 			name = Debug;
 		};
-		59EB05C4C3E71FDD6A98243ABF6BA4F1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E0EFBB8A54B430D0759C0712E2ED2432 /* BerbixToolkit.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		8B5A46FF8D3C1289CDEE3BAFACABCD2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -421,7 +458,25 @@
 			};
 			name = Release;
 		};
-		B06C609431F79B3010AB74557EBCF651 /* Debug */ = {
+		D365B6181DD5182A8D899AA7CF859728 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F64A317E763CE7F885DE8439BE6B9A1 /* BerbixAdvanced.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F5815275529E097BA5A410FDFBE363CA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D6F9F6B861703DC0613F4C001C52150 /* Pods-HighFlexDemo.debug.xcconfig */;
 			buildSettings = {
@@ -458,69 +513,14 @@
 			};
 			name = Debug;
 		};
-		CDC02DDCF61219BCAE27220F5BBFED68 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 708C60E2D52208C5C3F7365464B2CA8F /* BerbixToolkit.debug.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		D235F03057153830093AD130890ED741 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EDF158403E3603D8DA124496EC70E8B7 /* Pods-HighFlexDemo.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HighFlexDemo/Pods-HighFlexDemo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HighFlexDemo/Pods-HighFlexDemo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2AEA8FA93D3F8D303A76740FC7D3C044 /* Build configuration list for PBXAggregateTarget "BerbixToolkit" */ = {
+		112A917A95C2D0178E9CE6718122B226 /* Build configuration list for PBXNativeTarget "Pods-HighFlexDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CDC02DDCF61219BCAE27220F5BBFED68 /* Debug */,
-				59EB05C4C3E71FDD6A98243ABF6BA4F1 /* Release */,
+				F5815275529E097BA5A410FDFBE363CA /* Debug */,
+				2479C0C1EF10915AA4AD268666BBD749 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -534,11 +534,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FA1E397C6DEFA768DFCDCC7994DE5A3A /* Build configuration list for PBXNativeTarget "Pods-HighFlexDemo" */ = {
+		5EE224EE89EECE38722FBFB7C6619B69 /* Build configuration list for PBXAggregateTarget "BerbixAdvanced" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B06C609431F79B3010AB74557EBCF651 /* Debug */,
-				D235F03057153830093AD130890ED741 /* Release */,
+				43017B28758F2E3F8F8AAFC978BE8142 /* Debug */,
+				D365B6181DD5182A8D899AA7CF859728 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

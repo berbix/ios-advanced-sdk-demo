@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import BerbixToolkit
+import BerbixAdvanced
 import AVFoundation
 
 class SessionViewController: UIViewController {

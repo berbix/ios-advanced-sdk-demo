@@ -364,7 +364,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5CZ34J2WW9;
+				DEVELOPMENT_TEAM = 9AEE6NMN4R;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HighFlexDemo/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "To scan documents and faces to verify identity";
@@ -396,7 +396,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5CZ34J2WW9;
+				DEVELOPMENT_TEAM = 9AEE6NMN4R;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HighFlexDemo/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "To scan documents and faces to verify identity";
