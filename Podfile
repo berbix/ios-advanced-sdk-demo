@@ -6,9 +6,6 @@ target 'HighFlexDemo' do
   
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-
-  # Pods for HighFlexDemo
-  # Use for local development
-  # pod 'BerbixAdvanced', :path => '../ios-toolkit/BerbixAdvancedDev.podspec'
+  
   pod 'BerbixAdvanced', '0.2.0'
 end
