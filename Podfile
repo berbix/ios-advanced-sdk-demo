@@ -7,5 +7,5 @@ target 'HighFlexDemo' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   
-  pod 'BerbixAdvanced', '0.2.0'
+  pod 'BerbixAdvanced', '0.2.1'
 end

@@ -6,6 +6,6 @@ framework module BerbixAdvanced {
 }
 
 module BerbixAdvanced.Swift {
-    header "BerbixAdvanced-Swift.h"
-    requires objc
+  header "BerbixAdvanced-Swift.h"
+  requires objc
 }
